@@ -33,7 +33,7 @@ Eager to learn and put my knowledge into practice.💪</p>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"></img>
   </td>
     <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledl&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledl&theme=dark"  width="500" height="600"/>
       <td>
     </tr>
   </table>
