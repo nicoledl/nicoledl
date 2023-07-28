@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi! I'm Nicole 👋</h1>
   <h3>💻Full Stack Web Developer💻</h3>
-  <p>An enthusiastic programmer from Argentina. 🇦🇷 Looking for the dream job.✨
+  <p>An enthusiastic programmer from Argentina. Looking for the dream job.✨
 Eager to learn and put my knowledge into practice.💪</p>
   <p>I'm working on learning new technologies, agile methods and reinforcing my knowledge.</p>
 </div>
@@ -15,7 +15,7 @@ Eager to learn and put my knowledge into practice.💪</p>
 </div>
 <div id="skills">
   <h2>Skills</h2>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledl&hide_progress=false)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledl&theme=dark" />
 </div>
 
 <!--
