@@ -17,7 +17,7 @@ Eager to learn and put my knowledge into practice.💪</p>
   <h2>Skills</h2>
   <table>
     <tr>
-  <td>
+  <td  width="50%">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></img>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"></img>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"></img>
@@ -32,8 +32,8 @@ Eager to learn and put my knowledge into practice.💪</p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgressql"></img>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"></img>
   </td>
-    <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledl&theme=dark"  width="50%"/>
+    <td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoledl&theme=dark"/>
       <td>
     </tr>
   </table>
